@@ -1,0 +1,48 @@
+h1 {
+   text-align:center;
+   font-size:250%;
+   color:grey;
+}
+
+ul,ol {
+   font-size:150%;
+   font-style:italic;
+}
+h2 {
+   font-size:175%;
+}
+h3 {
+   font-size:162%;
+}
+p {
+   font-size:90%;
+}
+.cont {
+   position:relative;
+   text-align:center;
+}
+.Centered {
+    position:absolute;
+    top:60%;
+    bottom:120%;
+    font-size:200%;
+    transform:
+translate(130%,130%);
+}
+.day {
+    background-color:grey;
+    margin-right:75%;
+}
+.tit {
+    background-color:white;
+    font-size:150%;
+}
+.fa {
+    background-color:white;
+}
+body {
+    background-image:url("bag.jpg");
+}
+img {
+    float: right;
+}
